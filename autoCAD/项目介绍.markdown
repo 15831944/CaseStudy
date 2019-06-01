@@ -1,0 +1,17 @@
+# Hello World
+简单输出一句Hello World 
+# NewLine
+画一条线
+# NewCircle
+画一个圆
+# ListEntities
+从模型空间检索实体对象 也就是看一看当前活动文档中都有什么图形
+# AddMyLayer
+1.向集合对象添加新成员  也就是在图层表中添加新图层
+2.迭代集合对象  也就是循环图层表中所有的图层
+3.在集合对象中查找成员  也就是在图层表中查找图层
+4.从集合对象中删除成员  也就是在图层表中删除图层
+# PositionApplicationWindow
+控制autoCAD应用程序窗口包括:指定大小,最大化,最小化,隐藏,显示,获取窗口当前状态等
+# SizeDocumentWindow
+控制活动文档窗口大小：指定大小，最大化，最小化，获取窗口当前状态等
